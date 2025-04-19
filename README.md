@@ -19,7 +19,7 @@ This is a dynamic hospital management website developed as part of my academic m
 2. Place the full project folder inside:  
    `C:\xampp\htdocs\hospital-website`
 3. Start Apache and MySQL in the XAMPP Control Panel
-4. Import the provided `.sql` file into phpMyAdmin to create the database
+4. Import the provided `hospital.sql` file into phpMyAdmin to create the database
 5. Access the site in your browser at:  
    `http://localhost/hospital-website/mainpage.php`
 Note: This project uses PHP and must be run on a local server environment like XAMPP.
