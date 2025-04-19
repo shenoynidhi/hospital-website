@@ -68,7 +68,7 @@ Note: This project uses PHP and must be run on a local server environment like X
 
 ### Billing
 - `view_invoice.php` – View patient invoice
-- 
+
 ### Images
 - `images/` – Contains image resources used across the web pages
 
